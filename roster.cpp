@@ -223,7 +223,7 @@
 
 int main() {
 
-	cout << "Scripting and Programming - Applications\nProgramming language: C++\nStudent ID: 001094638\nJohn Van Valkenburg\n";
+	cout << "Scripting and Programming - Applications\nProgramming language: C++\nStudent ID: *********\nJohn Van Valkenburg\n";
 
 	const string studentData[] = 
 	{
